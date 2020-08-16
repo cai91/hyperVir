@@ -25,5 +25,5 @@ input_file: FASTA file containing a list of related proteins <br />
 <input_file>.png
 ```
 
-<input_file>.out: Hypervariation signal across multiple sequence alignment
-<input_file>.png: Hypervariation plot
+<input_file>.out: Hypervariation signal across multiple sequence alignment <br />
+<input_file>.png: Hypervariation plot <br />
