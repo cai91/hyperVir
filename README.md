@@ -19,6 +19,10 @@ hyperVir.py <input_file>
 input_file: FASTA file containing a list of related proteins <br />
 
 <b>Output:</b>
+
+<input_file>.out
+<input_file>.png
 ```
+
 <input_file>.out: Hypervariation signal across multiple sequence alignment
 <input_file>.png: Hypervariation plot
